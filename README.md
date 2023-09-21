@@ -17,7 +17,7 @@ Possibilidade de expansão com recursos adicionais.
 # Tecnologias Utilizadas:
     Python.
 
-# Nota: 
+# Nota e Colaboradores: 
     Este é um projeto de nível basico criado pela equipe de TI da Distribuidora Campos, a fins de fornecer a consulta dos produtos em preço promocional para a equipe de televendas.
     *Colaboradores:
         https://github.com/ArthurPSilva
